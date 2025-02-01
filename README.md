@@ -13,7 +13,3 @@ Project Reunite is a humanitarian AI system designed to help reunite missing per
 ---
 ### **🔗 Contributing**
 Want to contribute? Feel free to open a PR or issue.
-
-### **📜 License**
-MIT License
-
